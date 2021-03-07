@@ -7359,9 +7359,9 @@ w = w + 1
 end
 if #group == i then 
 if (w + q) == 0 then
-faederdx(msg.chat_id_, msg.id_, 1, ❅∫ لا يوجد كروبات وهميه ،\n , 1,  md )
+FLASHdx(msg.chat_id_, msg.id_, 1, ❅∫ لا يوجد كروبات وهميه ،\n , 1,  md )
 else
-local faederddx2 = (w + q)
+local FLASHddx2 = (w + q)
 local FLASHdx3 = #group - FLASHddx2
 if q == 0 then
 FLASHddx2 = ''
