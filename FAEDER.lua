@@ -7363,6 +7363,7 @@ FLASHdx(msg.chat_id_, msg.id_, 1, ❅∫ لا يوجد كروبات وهميه �
 else
 local FLASHddx2 = (w + q)
 local FLASHdx3 = #group - FLASHddx2
+end
 if q == 0 then
 FLASHddx2 = ''
 else
